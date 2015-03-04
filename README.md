@@ -1,2 +1,2 @@
 # hello-world
-Following the Hello World tutorial on guides.github.com/activities/hello-world/
+Hey hey, I am... still following  the tutorial.
